@@ -1,0 +1,7 @@
+https://api.telegram.org/(token_id)/getMe 
+
+https://api.telegram.org/bot(token_id)/getUpdates
+
+https://api.telegram.org/bot(token_id)/sendMessage?chat_id=(chat_id)&text=(message)
+
+https://docs.google.com/document/d/1enCRCH0aNFStlUQpTIolsj9xkgIfkAj36H3RMzdgMFo/edit
